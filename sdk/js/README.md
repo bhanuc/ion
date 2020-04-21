@@ -1,19 +1,3 @@
 # JS SDK for ion
-
-## Usage
-
-### Build
-
-`cd ion/sdk/js/demo/`
-
-`npm i`
-
-
-
-### Run app
-
-`npm start`
-
-
-### Test
-`https://localhost:8080`
+moved to a separate repository.
+Link will be updated before final merge.
