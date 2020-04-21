@@ -31,7 +31,7 @@
   "dependencies": {
     "antd": "^3.25.2",
     "copy-webpack-plugin": "^5.0.5",
-    "ion-sdk": "../",
+    "ion-sdk": "https://github.com/bhanuc/ion-sdk",
     "mdi-react": "^6.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
